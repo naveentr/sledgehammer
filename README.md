@@ -1,5 +1,5 @@
 # Naveen T R
-***No 1,50 FeetRoad Avalahalli Bengaluru-560026 | 8892661906 | naveen251995@outlook.com
+*No 1,50 FeetRoad Avalahalli Bengaluru-560026 | 8892661906 | naveen251995@outlook.com*
 
 # Objective
 I intend to establish myself as Software Development Analyst with an integrated business solution provider through a long-time commitment, contributing to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me in facing the challenging career ahead.
