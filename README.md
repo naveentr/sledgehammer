@@ -1,114 +1,88 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@naveentr 
-HarishSingh2095
-/
-Portfolio
-Public
-1
-01
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-You’re making changes in a project you don’t have write access to. We’ve created a fork of this project for you to commit your proposed changes to. Submitting a change will write it to a new branch in your fork, so you can send a pull request.
-Portfolio
-/
-README.md
-in
-HarishSingh2095:main
+Naveen T R
+No 1,50 FeetRoad Avalahalli Bengaluru-560026 | 8892661906 | naveen251995@outlook.com
+
+Objective
+I intend to establish myself as Software Development Analyst with an integrated business solution provider through a long-time commitment, contributing to the company's growth and in turn ensuring personal growth within the organization. I believe that my technical, functional and communication skills will enable me in facing the challenging career ahead.
+
+Professional Summary
+•	Working as a Software Development Analyst at NTT DATA GDS, Bangalore.
+•	Having an Experience of 3 yrs. in the project of the client WELLSFARGO.
+
+
+
+
+Technical Expertise
+	PROGRAMMING LANGUAGE	JAVA AND JAVASCRIPT 	
+	OPERATING SYSTEMS	WINDOWS 7,10.	
+	JAVA TECHNOLOGIES	JEE,SRPING MVC, Apache Kafka(Basic), REST, and SOAP Services.	
+	DEVELOPMENT TOOLS	SPLUNK, PUTTY, JIRA, WINSCP AND JMETER	
+	DATABASES	ORACLE ,mySQL ,JDBC	
+	CONFIGURATION TOOLS	GIT	
+	DOMAIN KNOWLEDGE	BANKING	
+	TESTING TOOLS	MOCKITO, JUNIT AND JMETER	
+	DOCUMENTATION	FSD	
+	FOREIGN LANGUAGE KNOWN	ENGLISH	
+
+
+
+PROJECT:
+Project Name: Interaction Advisor
+Industry: WELLSFARGO (Banking)
+Description: Spring MVC, My SQL, jQuery, JavaScript and Apache Maven
+Role: Software Development Analyst
+Description:
+InterAction Advisor (IA) is a CRM project in the Wells Fargo banking Sector, wherein IA deals with the Rendering Offers to the particular customers based on the customer details. IA is built on a Spring boot framework and C++.
+IA has an adaptor called ESA and one Real Time engine.
+Real Time Engine (RT)tool for rendering offers, which interacts each other to render offer to the end customers.
  
 
-Spaces
+ESA-ESA is built on Spring Boot framework which accepts the request in the form of SOAP and interacts with the RT to get the offers and give the response in the SOAP .
 
-2
+RT -A CRM tool which renders offers based on the customers details and the rules. RT is built on a C++ platform, where the function is written in the functions format of the basic JavaScript. Basically, RT renders offers by getting the customer details, arbitering campaigns, filtering the slot filters and minors.
 
-Soft wrap
-1
-# Harish Singh
-2
-*An Aspiring Machine Learning Engineer | Transaction Risk Investigator at Amazon Development Center, Bangalore*
-3
-​
-4
-# Education
-5
-* Post Graduate Diploma (Data Science), *Amity University*, 2020-2021
-6
-* Bachelors of Engineering (Computer Science), *Don Bosco Institute of Technology*, 2014-2018
-7
-​
-8
-# [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
-9
-![alt text](executium-9pCV2MB65y8-unsplash.jpg)
-10
-​
-11
-Photo by <a href="https://unsplash.com/@executium?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Executium</a> on <a href="https://unsplash.com/s/photos/cryptocurrency?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-12
-  
-13
-This project integrates various news source for performing sentiment analysis pertaining to cryptocurrencies.
-14
-* **Python libraries used:** Streamlit, Huggingface, TensorFlow
-15
-* **Input:** Tweets, News
-16
-* **Output:** Sentiment of Cryptocurrency
-17
-​
-18
-# [Project 2: Crypto Trading Bot](http://youtube.com/dataprofessor)
-19
-![alt text](behnam-norouzi-mp11_hrQXf8-unsplash.jpg)
-20
-​
-21
-Photo by <a href="https://unsplash.com/@behy_studio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Behnam Norouzi</a> on <a href="https://unsplash.com/s/photos/crypto-trading-bot?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-22
-  
-23
-This project makes use of ***sentiment analysis*** of cryptocurrency coupled with ***technical analysis*** in the trading of cryptocurrencies.
-24
-* **Python libraries used:** Streamlit, python-binance, cctx, talib
-25
-* **Input:** Cryptocurrency historical price
-26
-* **Output:** Trading signals triggers buying and selling
-27
-​
-28
-  
-29
-​
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-@naveentr
-Propose changes
-Commit summary
-Create README.md
-Optional extended description
-Add an optional extended description…
+Responsibilities:
+•	Development activity includes configuring/writing the java code for the required functionality.
+•	Development activity includes configuring/writing functions in JavaScript For the CRM(Epiphany) tool.
+•	Actively involved in debugging the code and testing the applications using generic requests
+•	Testing the Request Load using JMeter and creating test cases for the number of the request fired.
+•	Junit and Mockito Test for every Class and Methods.
+•	Trouble shooting and problem solving.
+•	Writing FSDs.
+•	Interacting with onsite coordinators to get the clarifications on the requirements and status update.
+
+
+Education
+GRADUATION | 2018 | K S SCOOL OF ENGINEERING AND MANAGEMENT
+·	Major: Bachelor of Engineering
+·	Related coursework: Electronics and communication
+·	Aggregate:74.6%
+12th | 2014 | pes pu college
+·	Major: PCMB
+·	Aggregate:74.6%
+10TH | 2012 | SREE SRASWATHI VIDHYA MANDIRA
+·	Aggregate:87.04%
+
+
+INERNSHIP/ CERTIFICATIONS /TECHNICAL TRAINING:
+INTERN |BOSCH| 5/1/2018-8/2/2018
+Hands on experience on the PLC circuits and complete sparkplug manufacturing process, from JAN 5-feb 8 2018.
+INTERN |RTTC(BSNL)| 1/8/2017-6/8/2017
+A 6 days internship course organized by BSNL RTTC, Mysore where we learnt about networking, We worked on FTP, HTTP and network routing.
+IOT AND DATA ANALYTICS.
+Worked on logging sensor data to the cloud and worked on cloud and hands on experience on intel edision and bandicoot application, I worked on Ubuntu platform, it was a 3-day workshop conducted by IISC Bangalore.
  
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+EXTRA CURRICULAR ACHIEVEMENTS:
+•	NCC ‘C’ certificate with National Level Camp.
+•	Won 3rd place in Zonal round in ROBOTRYST 2015, conducted by IIT Delhi.
+PERSONAL INFORMATION:
+•	Father's Name	:	Ranganatha Gupta T G
+•	Date of Birth	:	25/12/1995
+•	Alternative Number:	7019201844
+
+DECLARATION:
+I hereby declare, that all the above given Information are true to the best of my knowledge.
+
+Place: Bangalore	Yours Sincerely
+										Naveen T R								
+
+
