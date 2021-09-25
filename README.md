@@ -16,17 +16,17 @@ I intend to establish myself as Software Development Analyst with an integrated 
 	OPERATING SYSTEMS	WINDOWS 7,10.	
 	JAVA TECHNOLOGIES	JEE,SRPING MVC, Apache Kafka(Basic), REST, and SOAP Services.	
 	DEVELOPMENT TOOLS	SPLUNK, PUTTY, JIRA, WINSCP AND JMETER	
-	DATABASES	ORACLE ,mySQL ,JDBC	
+	DATABASES		ORACLE ,mySQL ,JDBC	
 	CONFIGURATION TOOLS	GIT	
 	DOMAIN KNOWLEDGE	BANKING	
-	TESTING TOOLS	MOCKITO, JUNIT AND JMETER	
-	DOCUMENTATION	FSD	
+	TESTING TOOLS		MOCKITO, JUNIT AND JMETER	
+	DOCUMENTATION		FSD	
 	FOREIGN LANGUAGE KNOWN	ENGLISH	
 
 
 
-PROJECT:
-Project Name: Interaction Advisor
+# PROJECT:
+Project Name: *Interaction Advisor*
 Industry: WELLSFARGO (Banking)
 Description: Spring MVC, My SQL, jQuery, JavaScript and Apache Maven
 Role: Software Development Analyst
@@ -40,7 +40,7 @@ ESA-ESA is built on Spring Boot framework which accepts the request in the form 
 
 RT -A CRM tool which renders offers based on the customers details and the rules. RT is built on a C++ platform, where the function is written in the functions format of the basic JavaScript. Basically, RT renders offers by getting the customer details, arbitering campaigns, filtering the slot filters and minors.
 
-Responsibilities:
+# Responsibilities:
 •	Development activity includes configuring/writing the java code for the required functionality.
 •	Development activity includes configuring/writing functions in JavaScript For the CRM(Epiphany) tool.
 •	Actively involved in debugging the code and testing the applications using generic requests
@@ -50,7 +50,7 @@ Responsibilities:
 •	Writing FSDs.
 •	Interacting with onsite coordinators to get the clarifications on the requirements and status update.
 
-
+<font color="green"> Some green text </font>
 Education
 GRADUATION | 2018 | K S SCOOL OF ENGINEERING AND MANAGEMENT
 ·	Major: Bachelor of Engineering
